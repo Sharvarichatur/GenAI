@@ -4,5 +4,7 @@ langchain-community
 langchain-core
 ollama
 matplotlib
+plotly
+
 
 
